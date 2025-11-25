@@ -1,5 +1,5 @@
 {
   "name": "EquiCheck - Buy vs Sell Side Analyst",
-  "description": "An AI-powered investment agent that analyzes discrepancies between Buy Side and Sell Side documents using Gemini 1.5 Pro/Flash models.",
+  "description": "An AI-powered investment agent that analyzes discrepancies between Buy Side and Sell Side documents using Gemini 2.5 Pro/Flash models.",
   "requestFramePermissions": []
 }
