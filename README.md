@@ -6,13 +6,6 @@ EquiCheck is an AI-powered investment agent designed to automate the comparison 
 
 The application is built using a modern, serverless architecture on Google Cloud Platform.
 
-```mermaid
-graph TD
-    User((Analyst)) --> |Access| UI[React Frontend\n(Cloud Run)]
-    UI --> |Upload| Gemini[Vertex AI\n(Gemini 1.5 Flash)]
-    Gemini --> |Analysis| UI
-    UI --> |Persist| DB[(Firestore)]
-```
 
 ### Components
 
